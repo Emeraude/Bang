@@ -1,6 +1,6 @@
 # Bang!
 
-**Bang!** is a cli tool to make research on the web with bangs like [DuckDuckGo](https://duckduckgo.com/) does.  
+**Bang!** is a cli tool to make researches on the web with bangs like [DuckDuckGo](https://duckduckgo.com/) does.  
 It will use your default browser to get the pages.
 
 ## Usage
