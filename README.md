@@ -24,6 +24,7 @@ alias '!'='bang'
 - imdb [imdb](http://www.imdb.com)
 - gh [GitHub](https://github.com)
 - gl [GitLab](https://gitlab.com)
+- npm [npm](https://www.npmjs.com)
 - tek [Intranet Epitech](https://intra.epitech.eu)
 - w [Wikipédia](https://en.wikipedia.org)
 - wfr [Wikipédia France](https://fr.wikipedia.org)

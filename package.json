@@ -1,6 +1,6 @@
 {
   "name": "bang!",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A simple cli tool to do research like DuckDuckGo",
   "main": "bang",
   "scripts": {
