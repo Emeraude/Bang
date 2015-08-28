@@ -9,6 +9,8 @@ It will use your default browser to get the pages.
 ./bang ddg 42 # it will search "42" on DuckDuckGo
 ```
 
+The name of the bang can be places anywhere on the line. If not specified, it assumes that **DuckDuckGo** have to be used. If there is only the bang, the homepage of the website will be opened.
+
 You can use an alias to make it prettier:
 
 ```bash
