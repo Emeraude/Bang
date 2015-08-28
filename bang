@@ -1,0 +1,33 @@
+#!/usr/bin/env node
+
+var shelljs = require('shelljs')
+
+var bangs = {
+  "ddg": "https://duckduckgo.com/?q=%s",
+  "imdb": "http://www.imdb.com/find?s=all&q=",
+  "gh": "https://github.com/search?type=Everything&start_value=1&q=%s",
+  "gl": "https://gitlab.com/search?utf8=%E2%9C%93&search=%s"
+  "tek": "https://intra.epitech.eu/user/%s",
+  "w": "https://en.wikipedia.org/wiki/Special:Search?&go=Go&search=%s",
+  "wfr": "https://fr.wikipedia.org/wiki/Special:Search?&go=Go&search=%s",
+  "yt": "https://www.youtube.com/results?search_query=%s"
+}
+var selectedBang = null;
+var query = '';
+
+for (i in process.argv) {
+  if (i < 2)
+    continue;
+  if (!selectedBang && bangs[process.argv[i].toLowerCase()])
+    selectedBang = bangs[process.argv[i].toLowerCase()];
+  else {
+    if (query.length)
+      query += ' ';
+    query += process.argv[i];
+  }
+}
+
+if (!selectedBang)
+  selectedBang = bangs.ddg;
+
+shelljs.exec('xdg-open ' + encodeURI(selectedBang.replace(/\%s/g, query)));

@@ -1,0 +1,27 @@
+{
+  "name": "bang!",
+  "version": "1.0.0",
+  "description": "A simple cli tool to do research like DuckDuckGo",
+  "main": "bang",
+  "scripts": {
+    "test": "./bang ddg 42"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/Emeraude/Bang.git"
+  },
+  "keywords": [
+    "research",
+    "bang",
+    "duckduckgo"
+  ],
+  "author": "Emeraude",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://gitlab.com/Emeraude/Bang/issues"
+  },
+  "homepage": "https://gitlab.com/Emeraude/Bang#README",
+  "dependencies": {
+    "shelljs": "^0.5.3"
+  }
+}
