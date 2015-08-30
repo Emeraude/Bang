@@ -11,7 +11,8 @@ var bangs = {
   "tek": "https://intra.epitech.eu/user/%s",
   "w": "https://en.wikipedia.org/wiki/Special:Search?&go=Go&search=%s",
   "wfr": "https://fr.wikipedia.org/wiki/Special:Search?&go=Go&search=%s",
-  "yt": "https://www.youtube.com/results?search_query=%s"
+  "yt": "https://www.youtube.com/results?search_query=%s",
+  "zt": "https://zone-telechargement.com/index.php?q=%s"
 }
 var selectedBang = null;
 var query = '';

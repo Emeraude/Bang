@@ -29,6 +29,7 @@ alias '!'='bang'
 - w [Wikipédia](https://en.wikipedia.org)
 - wfr [Wikipédia France](https://fr.wikipedia.org)
 - yt [YouTube](https://youtube.com)
+- zt [Zone Telechargement](https://zone-telechargement.com/homep.html)
 
 ### Author
 
