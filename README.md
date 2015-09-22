@@ -26,6 +26,7 @@ alias '!'='bang'
 - gl [GitLab](https://gitlab.com)
 - kat [kickasstorrents](https://kat.cr)
 - npm [npm](https://www.npmjs.com)
+- rosetta [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 - t411 [t411](https://www.t411.io)
 - tek [Intranet Epitech](https://intra.epitech.eu)
 - tpb [The Pirate Bay](https://thepiratebay.la)
