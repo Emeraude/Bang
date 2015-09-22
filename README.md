@@ -26,7 +26,7 @@ alias '!'='bang'
 - gl [GitLab](https://gitlab.com)
 - kat [kickasstorrents](https://kat.cr)
 - npm [npm](https://www.npmjs.com)
-- t411 [t411](https://www.t511.io)
+- t411 [t411](https://www.t411.io)
 - tek [Intranet Epitech](https://intra.epitech.eu)
 - tpb [The Pirate Bay](https://thepiratebay.la)
 - w [Wikipédia](https://en.wikipedia.org)
