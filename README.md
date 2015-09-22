@@ -20,11 +20,13 @@ alias '!'='bang'
 
 ## Current bangs available
 
+- cpp [C++ Reference](http://www.cplusplus.com)
 - ddg [DuckDuckGo](https://duckduckgo.com)
 - imdb [imdb](http://www.imdb.com)
 - gh [GitHub](https://github.com)
 - gl [GitLab](https://gitlab.com)
 - kat [kickasstorrents](https://kat.cr)
+- node [Node.js](https://nodejs.org/en)
 - npm [npm](https://www.npmjs.com)
 - rosetta [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 - t411 [t411](https://www.t411.io)
