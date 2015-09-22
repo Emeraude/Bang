@@ -26,6 +26,7 @@ alias '!'='bang'
 - gh [GitHub](https://github.com)
 - gl [GitLab](https://gitlab.com)
 - kat [kickasstorrents](https://kat.cr)
+- melpa [Milkypostman’s Emacs Lisp Package Archive](https://melpa.org)
 - node [Node.js](https://nodejs.org/en)
 - npm [npm](https://www.npmjs.com)
 - rosetta [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)

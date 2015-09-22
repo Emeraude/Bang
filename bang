@@ -9,6 +9,7 @@ var bangs = {
   "gh": "https://github.com/search?type=Everything&start_value=1&q=%s",
   "gl": "https://gitlab.com/search?utf8=%E2%9C%93&search=%s",
   "kat": "https://kat.cr/usearch/%s",
+  "melpa": "https://melpa.org/#/?q=%s",
   "npm": "https://www.npmjs.com/search?q=%s",
   "node": "https://nodejs.org/api/%s.html",
   "rosetta": "http://rosettacode.org/mw/index.php?search=%s&go=Go",
