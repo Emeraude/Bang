@@ -5,6 +5,7 @@ var shelljs = require('shelljs');
 var bangs = {
   "cpp": "http://www.cplusplus.com/search.do?q=%s",
   "ddg": "https://duckduckgo.com/?q=%s",
+  "docker": "https://hub.docker.com/search/?q=%s",
   "imdb": "http://www.imdb.com/find?s=all&q=%s",
   "gh": "https://github.com/search?type=Everything&start_value=1&q=%s",
   "gl": "https://gitlab.com/search?utf8=%E2%9C%93&search=%s",

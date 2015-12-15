@@ -22,6 +22,7 @@ alias '!'='bang'
 
 - cpp [C++ Reference](http://www.cplusplus.com)
 - ddg [DuckDuckGo](https://duckduckgo.com)
+- docker [Docker Hub](https://hub.docker.com/)
 - imdb [imdb](http://www.imdb.com)
 - gh [GitHub](https://github.com)
 - gl [GitLab](https://gitlab.com)
