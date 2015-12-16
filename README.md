@@ -32,6 +32,7 @@ alias '!'='bang'
 - node [Node.js](https://nodejs.org/en)
 - npm [npm](https://www.npmjs.com)
 - rosetta [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
+- so [Stack Overflow](https://stackoverflow.com/)
 - t411 [t411](https://www.t411.io)
 - tek [Intranet Epitech](https://intra.epitech.eu)
 - tpb [The Pirate Bay](https://thepiratebay.la)
