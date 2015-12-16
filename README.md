@@ -24,6 +24,7 @@ alias '!'='bang'
 - ddg [DuckDuckGo](https://duckduckgo.com)
 - docker [Docker Hub](https://hub.docker.com/)
 - imdb [imdb](http://www.imdb.com)
+- jquery [jQuery](https://api.jquery.com/)
 - gh [GitHub](https://github.com)
 - gl [GitLab](https://gitlab.com)
 - kat [kickasstorrents](https://kat.cr)
