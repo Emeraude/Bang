@@ -27,19 +27,17 @@ alias '!'='bang'
 - jquery [jQuery](https://api.jquery.com/)
 - gh [GitHub](https://github.com)
 - gl [GitLab](https://gitlab.com)
-- kat [kickasstorrents](https://kat.cr)
 - melpa [Milkypostman’s Emacs Lisp Package Archive](https://melpa.org)
 - node [Node.js](https://nodejs.org/en)
 - npm [npm](https://www.npmjs.com)
 - rosetta [Rosetta Code](http://rosettacode.org/wiki/Rosetta_Code)
 - so [Stack Overflow](https://stackoverflow.com/)
-- t411 [t411](https://www.t411.io)
+- t411 [t411](https://www.t411.li)
 - tek [Intranet Epitech](https://intra.epitech.eu)
-- tpb [The Pirate Bay](https://thepiratebay.la)
+- tpb [The Pirate Bay](https://thepiratebay.org)
 - w [Wikipedia](https://en.wikipedia.org)
 - wfr [Wikipédia France](https://fr.wikipedia.org)
 - yt [YouTube](https://youtube.com)
-- zt [Zone Telechargement](https://zone-telechargement.com/homep.html)
 
 ### Author
 
