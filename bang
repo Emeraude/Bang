@@ -15,7 +15,7 @@ var bangs = {
   "node": "https://nodejs.org/api/%s.html",
   "rosetta": "http://rosettacode.org/mw/index.php?search=%s&go=Go",
   "so": "https://stackoverflow.com/search?q=%s",
-  "t411": "https://www.t411.li/torrents/search/?search=%s",
+  "t411": "https://www.t411.ai/torrents/search/?search=%s",
   "tek": "https://intra.epitech.eu/user/%s",
   "tpb": "https://thepiratebay.org/search/%s/0/99/0",
   "w": "https://en.wikipedia.org/wiki/Special:Search?&go=Go&search=%s",
